@@ -13,5 +13,7 @@ public class Principal {
     g2.setColor("Amarillo");
     g2.setSabor("Naranja");
     g2.mostrarInfo();
+
+        System.out.println("Santiago Gonzalez - 24310116");
     }
 }
